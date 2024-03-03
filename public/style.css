@@ -1,13 +1,33 @@
 h1{
     color: maroon;
+    text-align: center;
+}
+.container{
+    background-color: rgb(236, 209, 173);
 }
 .post{
     background-color: rgb(240, 223, 234);
     font-weight: bold;
+    margin-top: 20px;
+}
+label{
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(6, 106, 106);
+    
 }
 .user{
     font-style: italic;
 }
 a{
     text-decoration: none;
+}
+.delete{
+    margin-top: 19px;
+}
+button a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+
 }
